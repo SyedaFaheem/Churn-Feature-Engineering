@@ -96,7 +96,10 @@ This project illustrates the power of feature engineering in predictive modeling
 - Download
 - Open on google colab or Jupyter Notebook
 - Run all cells
-
+- 
+## Tableau Dashboard
+- https://public.tableau.com/app/profile/faheemunnisa.wasiullah/viz/Churnrateanalysis_17812453371850/ChurnRateAnalysis
+  
 ## 👤 Author
 Faheemunnisa Syeda Machine Learning & Applied Math Specialist
 
